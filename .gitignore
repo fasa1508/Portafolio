@@ -1,0 +1,29 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Carpetas de node_modules (si usas Node.js en el futuro)
+node_modules/
+
+# Archivos de configuración local
+.env
+.env.local
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos de desarrollo
+.vscode/settings.json
